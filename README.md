@@ -43,6 +43,6 @@ We continue to make your life easy by bringing to you a team of passionate induv
 Currently we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The differece is just the look but features are pretty much the same.
 This guide will include directions and screenshots of the mobile device App version but if you decide to use the [webapp version](http://saas.windasoft.com/manage#manage/welcome) on your phone web browser or laptop, you're morethan welcome to do so. Just keep in mind that some of the features might look different but the lesson you will learn from this tutorial won't be a total loss for you.
 
-To download the app on your smarthphone Android users, click on this link ----> [Download for Android](http://saas.windasoft.com/u/app/edm2.apk) this will open up
+To download the app on your smarthphone Android users, click on this link ----> [Download for Android](http://saas.windasoft.com:80/u/app/edm2.apk) this will open up
 
 
