@@ -99,18 +99,31 @@ A nurse has limitted responsabilities compared to the Hospital manager or boss.
 Let's navigate through the App and experiment with some of tasks a Nurse or a laboratory assistant could do on the app.
 
 ##### Report broken machine or request a maintenance service.
+
+⚠️ The page might take long to load depending on your device space memory and RAM, just be patient. in some instance you might need to close the app and other running app to free-up the memory.
  
  To let the engineer know about a broken machine and request for maintenance the user need just to scan the QR associated with the machine they want to report. The QR code will usually be on one side of the machine as a sticker. Find it and scan it using the WindaEDM scanner as shown in the illustration bellow.
 
 ![image](https://user-images.githubusercontent.com/55901714/166929317-e54c2b74-552d-4b39-b132-3192f57d2564.png)
 
 next scan the QR code of the machine you want to report.
+If you can't find a QR code ask the supplier(China Care Medical) to provide a QR code. 
 
+For illustration purpose use this [QR CODE](https://github.com/py-tony/how-to-use-the-windaedm-assistant-from-china-care-medical/blob/main/9443e0de-3f17-417b-8e6b-b8b43185e2ae.jpg)
 
 ![432efcdf-8b8e-4b74-ab2f-a0fcad36dcec](https://user-images.githubusercontent.com/55901714/166931640-11f22142-1f90-4ae7-9f15-9e8dfb0e683e.jpg)
 
+You will be redirected to a page that will look like the one below. The data on this page are just basic information related to the machine. Please go ahead and press on report.
+
+![image](https://user-images.githubusercontent.com/55901714/166944525-1a7af72c-db16-41d8-a265-5913ea1702fc.png)
+
+Next locate the `State`, `Priotity`, and `Report Description` sections. 
+Start by entering the state of the machine. this is where you let the maintenance team about the current state of the machine and determine how urgent the issue need to be addressed. 
+
+Click on State ![image](https://user-images.githubusercontent.com/55901714/166948266-58d75113-0b64-4bfd-9013-ea0b79bd2ad8.png) scoll up or down to select the state that the machine is currently in. Example bellow.
 
 
+![image](https://user-images.githubusercontent.com/55901714/166948061-3520b5f5-fd7e-4616-9100-67663d81a126.png)
 
 
 
