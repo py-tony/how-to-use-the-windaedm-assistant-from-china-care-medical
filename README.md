@@ -95,7 +95,7 @@ That should take you to a screen like the one shown bellow.
 ![0fbc2c48-ca74-4fe4-a424-e8d31116fafd](https://user-images.githubusercontent.com/55901714/166927341-52123dcc-ecb9-4f59-adae-80c2735f4945.jpg)
 
 
-A nurse as limitted responsabilities compared to the Hospital manager or boss.
+A nurse has limitted responsabilities compared to the Hospital manager or boss.
 Let's navigate through the App and experiment with some of tasks a Nurse or a laboratory assistant could do on the app.
 
 ##### Report broken machine or request a maintenance service.
