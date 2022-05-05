@@ -120,10 +120,25 @@ You will be redirected to a page that will look like the one below. The data on 
 Next locate the `State`, `Priotity`, and `Report Description` sections. 
 Start by entering the state of the machine. this is where you let the maintenance team about the current state of the machine and determine how urgent the issue need to be addressed. 
 
-Click on State ![image](https://user-images.githubusercontent.com/55901714/166948266-58d75113-0b64-4bfd-9013-ea0b79bd2ad8.png) scoll up or down to select the state that the machine is currently in. Example bellow.
+Click on State ![image](https://user-images.githubusercontent.com/55901714/166948266-58d75113-0b64-4bfd-9013-ea0b79bd2ad8.png) scoll up or down to select the state that the machine is currently in and make sure to confirm the change. See the example bellow.
 
 
 ![image](https://user-images.githubusercontent.com/55901714/166948061-3520b5f5-fd7e-4616-9100-67663d81a126.png)
+
+Do the same with Priority by tapping on priotity. This is just to notify to the technician how urgent this need to be done.
+
+![image](https://user-images.githubusercontent.com/55901714/167037358-4e863c23-7f71-4957-a0dd-15bccf04bdb2.png)
+
+Next fill in the `Report Description`. This is where you tell us more  about what is wrong with the machine and extra informations that you noticed previously.
+
+![image](https://user-images.githubusercontent.com/55901714/167038542-2470d8a2-29dc-4c8f-82a1-89566f8891fb.png)
+
+
+Noticed that you can also 1) add a voice note or 2) take a pic to discribe the problem in details. Once you're happy with the info provided, 3) press `Confirm` as shown below.
+
+
+![image](https://user-images.githubusercontent.com/55901714/167041233-160590ae-ef11-4504-9988-35f8cf50b6fd.png)
+
 
 
 
