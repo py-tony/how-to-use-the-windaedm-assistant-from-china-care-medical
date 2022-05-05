@@ -4,14 +4,10 @@ In this tutorial we will be going through step by step on how to use the WindaED
 You can also expect clear direction and explanation of:
 
 
-
 - What is WindaEDM
 - How to download 
 - How to set it up.
-- How to use it as a CEO or General manager
 - How to use it as a Nurse 
-- How to use it as a Warehouse Manager
-
 
 
 
@@ -23,41 +19,44 @@ You can also expect clear direction and explanation of:
 
 WindaEDM is an efficient management equipment platform that accurately and effectively helps major enterprises and individuals work together. 
 
-Ok what does that even mean in the context of managing hospital tools and equipments?
-Well, for those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. But for now we would like to think of WindaEDM as a software that takes care of various activities in a hospital such as reporting or requesting maintence/repair of a machine, data storage and management, stock management, automated communications, updates, etc..
+Ok, what does that even mean in the context of managing hospital tools and medical equipment?
+Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. But for now, we would like to think of WindaEDM as software that takes care of various activities in a hospital such as requesting maintenance, repair of a machine, data storage/management, stock management, automated communications, or updates.
 
-Why do i need to use this system? The primarily goal of this App is to improve how your medical Equipments are managed and looked after. On top of ensuring that your equipments are well looked after, the software also helps you to keep track of your warehouse stock. It more like having all the concerned parties such as engineers, manufacturer, sales reps, nurse etc.. rigt at your fingertip.
+Why do I need to use this system? The primary goal of this App is to improve how your medical equipment is managed and looked after. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
 
 
 ## Made possible by China Care Medical
+
 ![image](https://user-images.githubusercontent.com/55901714/166336403-7437043e-0209-413a-b7ea-6eef660e72fd.png)
 
 
-At China Care Medical we strive to bring you the best 21th century medical equipments for your hospital to put you ahead of your competition at a lowest cost possible. You can pay your equipments at [warehouse prices](https://www.chinacaremedical.com/) and save money. All our equipments come with a guaranty of up to 24 months. While under guaranty, you get free assistance from the installation to regular maintenance. Once your guaranty is over, China Care Medical will still support and guaranty a good functionality of your equipments at a small yearly or monthly fee.
+At China Care Medical we strive to bring you the best 21st-century medical equipment for your hospital to put you ahead of your competition at the lowest cost possible. You can pay for your equipment at [warehouse prices](https://www.chinacaremedical.com/) and save money. All our medical machines come with a guarantee of up to 24 months. While under the guarantee, you get free assistance from installation to reparing if needed. China Care Medical will still support and guarantee a good functioning of your equipment after your guarantee has ended at a reasonable fee.
 
-We continue to make your life easy by bringing to you a team of passionate induviduals, qualified engineers, and world class technologies such as WindaEDM software.
+We continue to make your life easy by bringing to you a team of passionate individuals, qualified engineers, and world-class technologies such as WindaEDM software.
 
 
 ## How to download WindaEDM
 
-Currently we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The differece is just the look but features are pretty much the same.
-This guide will include directions and screenshots of the mobile device App version but if you decide to use the [webapp version](http://saas.windasoft.com/manage#manage/welcome) on your phone web browser or laptop, you're morethan welcome to do so. Just keep in mind that some of the features might look different but the lesson you will learn from this tutorial won't be a total loss for you.
+Currently we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The difference is just the look, but the features are pretty much the same.
+This guide will include directions and screenshots of the mobile device App version, but if you decide to use the [web app version](http://saas.windasoft.com/manage#manage/welcome) on your phone's web browser, or laptop, you're more than welcome to do so. It's important to remember that some features might look different, but the lesson you'll learn won't be a total loss.
 
-To download the app on your smarthphone Android or IOS, click on this link ----> [Download](http://saas.windasoft.com/download) this will open up a webpage like the one below.
+To download the app on your smartphone Android, or IOS, click on this link ----> [Download](http://saas.windasoft.com/download) this will open up a webpage like the one below.
 
 
 ![download_android](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg)
-To download it, for Android users just tap on the blue button as shown on the pic above or scan the first QR code.When prompt for permissions, just allow everything. You might also get a notification saying that the app come from an untrusted source, this is because this app is not available on Playstore so play protect might try to block it.
 
 
-Once the download has been completed located the file in your downlaod folder and install it by tapping on it.
+To download it, for Android users, tap on the blue button as shown in the pic above or scan the first QR code. When prompt for permissions, allow everything. You might also get a notification saying that the app comes from an untrusted source, this is because WindaEDM is not available on Playstore so play protect might try to block it.
+
+
+Once the download has been completed, locate the file in your download folder and install it by tapping on it.
 
 ![image](https://user-images.githubusercontent.com/55901714/166921676-f3ce7813-f4fc-42e5-8d02-11f6a4ed7d85.png)
 
-You might be prompt to allow the App to use your camera, microphone, etc.. Please allow all. 
+You might be prompt to allow the app to use your camera, microphone, etc. Please allow all. 
 
 
-For Apple (iphones) users, just scan the QR code on this [link,](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg) and it will give you the download link, just press on the link and it will start downloading. You might get an error that says "App not available in your country or Region". Please folkow the steps in this [youtube video](https://www.youtube.com/watch?v=fhrDLIvru_M) to get around that.
+For Apple (iphones) users, just scan the QR code on this [link,](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg) and it will give you the download link, just press on the link and it will start installing. You might get an error that says "App not available in your Country or Region". Please follow the steps in this [youtube video](https://www.youtube.com/watch?v=fhrDLIvru_M) to get around that.
 
 
 Once the download is completed find the app on your smartphone and open it. This should give you a page looking like the one bellow.
