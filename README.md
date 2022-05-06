@@ -3,7 +3,6 @@
 In this tutorial we will be going through step by step on how to use the WindaEDM. 
 You can also expect clear direction and explanation of:
 
-
 - What is WindaEDM
 - How to download 
 - How to set it up.
@@ -65,7 +64,7 @@ Once the download is completed find the app on your smartphone and open it. This
 
 Congratulations! You've passed the first steps. Now let's get tighten some bolts and nuts to get you ready to use the app and communicate with your team.
 
-## How set it up
+## How to set it up
 
 #### Change your Language
 
