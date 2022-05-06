@@ -362,8 +362,40 @@ Tap on the `Add Application` button to select the consumable from the list.
 Scroll to find the consumable that you want to order and select it. You can also search it in the search box if you know it number. If you can't find what you're looking for, please contact your supplier or report this to your general manager.
 Once you find the consumable that you want to order, please select it by tapping on it, then tap `Confirm`.
 
-![Uploading image.png…]()
 
+![image](https://user-images.githubusercontent.com/55901714/167129894-a308cbf0-c6f8-48c5-9024-f0cc586476d0.png)
+
+
+That's it! If you want you can also add the quantity. Otherwise, just tap `Submit` and wait for the warehouse manager to confirm the picking order.
+
+
+![image](https://user-images.githubusercontent.com/55901714/167131483-889b37be-300e-4e45-a218-013ddcd233b0.png)
+
+From here. Your application will be received by the warehouse manager and other concerned colleagues. Just sit back and wait for the warehouse manager to approve the order. Once that is done, you will get a notification of your order. Example screen below.
+
+Go ahead and tap on the blue `Picking` icon under Pending Approval.
+
+![image](https://user-images.githubusercontent.com/55901714/167134388-b66812eb-135d-4c34-8f21-8e8e71f34af2.png)
+
+Here is where you will be notified or see a list of item that the warehouse manager approved or declined. Under Pending Approval tap on the item that you ordered.
+
+![image](https://user-images.githubusercontent.com/55901714/167136010-a1e0292f-b0ee-42b4-8359-4b3920fc6d72.png)
+
+Next, Check the information if the picking order was approved, you will get screen display like the one below. Go ahead and confirm that you will pass for collection by tapping on `Audit`.
+
+![image](https://user-images.githubusercontent.com/55901714/167136586-581f48ad-7b60-4bbf-a12b-ef35f46d4ef4.png)
+
+Finally, Enter the comment letting them know that you confirm that you will pick up the item and tap on `Passed`.
+
+
+![image](https://user-images.githubusercontent.com/55901714/167136815-bf4aac3b-727f-408e-ab15-714ebce0298f.png)
+
+Well done! You can go collect your consumable now at the warehouse.
+
+
+## Conclusion
+
+In this tutorial, the author aimed to introduce the user to WindaEDM. We were also able to learn how we can perform basic tasks like requesting maintenance or ordering a consumable. We're currently working on more straightforward guides that will include other users as well. We hope that this was useful. Please, if anything was not clear, do not hesitate to contact China care Medical or get in touch with the author by filling up this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0).
 
 
 
