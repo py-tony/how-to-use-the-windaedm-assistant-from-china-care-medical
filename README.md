@@ -139,6 +139,34 @@ Noticed that you can also 1) add a voice note or 2) take a pic to discribe the p
 ![image](https://user-images.githubusercontent.com/55901714/167041233-160590ae-ef11-4504-9988-35f8cf50b6fd.png)
 
 
+Congratulations! you've just learn how to report a problem that you might experience with Chinamachine.
+
+Next, let's see how a nurse can apply for new consumables. The steps are done as follow: Nurse apply for new consumables ---> Hospital Warehouse manager get application---> Nurse go to pick ----> Warehouse manager scan it, then Stock out. 
+
+These operations, including the maintenance report, are done under the supervision of the general manager or the boss of the hospital. That way, the hospital boss can know clearly what items are still left in their warehouse, who applied them, and when the stock almost run out to place more order for consumables to prevent stock shortage. 
+
+
+Ready? let's do it! 
+
+
+### Nurse how to apply for new consumables 
+
+From your home screen... 
+1) Find the `Parts` icon on the bottom navbar and tap on it. 
+2) Tap on the `Picking` button as illustrated below.
+
+![image](https://user-images.githubusercontent.com/55901714/167123981-574ef5a5-944f-4d43-bcd5-71028c7b5f0e.png)
+
+
+
+On the Picking page, you will see previous picking order or request that is pending confirmation or confirmed. 
+Next press the blue icon with the plus sign (+) at the bottom of your screen. 
+
+![image](https://user-images.githubusercontent.com/55901714/167103372-cad5769d-da10-43bb-99d7-8272385c54ea.png)
+
+
+
+
 
 
 
