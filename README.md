@@ -298,7 +298,7 @@ You will be redirected to a page that will look like the one below. The data on 
 
 ![image](https://user-images.githubusercontent.com/55901714/166944525-1a7af72c-db16-41d8-a265-5913ea1702fc.png)
 
-Next locate the `State`, `Priotity`, and `Report Description` sections. 
+Next locate the `State`, `Priority`, and `Report Description` sections. 
 Start by entering the state of the machine. this is where you let the maintenance team about the current state of the machine and determine how urgent the issue need to be addressed. 
 
 Click on State ![image](https://user-images.githubusercontent.com/55901714/166948266-58d75113-0b64-4bfd-9013-ea0b79bd2ad8.png) scoll up or down to select the state that the machine is currently in and make sure to confirm the change. See the example bellow.
@@ -306,7 +306,11 @@ Click on State ![image](https://user-images.githubusercontent.com/55901714/16694
 
 ![image](https://user-images.githubusercontent.com/55901714/166948061-3520b5f5-fd7e-4616-9100-67663d81a126.png)
 
-Do the same with Priority by tapping on priotity. This is just to notify to the technician how urgent this need to be done.
+Do the same with Priority by tapping on `Priority`. This is just to notify to the technician how urgent this needs to be done.
+
+1) General
+2) Serious
+3) Urgent
 
 ![image](https://user-images.githubusercontent.com/55901714/167037358-4e863c23-7f71-4957-a0dd-15bccf04bdb2.png)
 
