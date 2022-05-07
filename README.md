@@ -5,6 +5,7 @@ You can also expect clear directions and explanations of:
 
 - What is WindaEDM
 - How to download it
+- Overview of the App
 - How to set it up.
 - How to use it as a Nurse 
 
@@ -60,9 +61,21 @@ For Apple (iphones) users, just scan the QR code on this [link,](https://user-im
 
 Once the download is completed, find the app on your smartphone and open it. This should give you a page looking like the one bellow.
 
-![WhatsApp Image 2022-05-02 at 15 11 19](https://user-images.githubusercontent.com/55901714/166922858-3095cbe9-5f39-423b-b053-0299a6303e8f.jpeg)
-
 Congratulations! You've passed the first steps. Now let's get to tighten some bolts and nuts to get you ready to use the app and communicate with your team.
+
+
+## Overview of the App
+
+Ok let's first have a general view of the app and its main features.
+
+When you open the app you will be presented on a screen like the one below.
+Before login we have 3 feartures:
+
+1) Credentials :this is where you enter your organization, username, and password
+2) Offline mode : this is where you can perform some operation once you have some data saved but you're not connected to the internet
+3) Settings : here is where you get the basic seting like language and informations like the version of the app. you can also change or add an organization from here.
+
+![image](https://user-images.githubusercontent.com/55901714/167256617-dd8ff7ad-9f0e-48b2-834c-8f052b315ebf.png)
 
 ## How to set it up
 
