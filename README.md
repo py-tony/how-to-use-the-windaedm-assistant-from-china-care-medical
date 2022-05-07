@@ -77,6 +77,18 @@ Before login we have 3 feartures:
 
 ![image](https://user-images.githubusercontent.com/55901714/167256617-dd8ff7ad-9f0e-48b2-834c-8f052b315ebf.png)
 
+Once you're logged in, will see how to login later on in this article, you will land on page like the one below.
+Notice that there is three main sections here.
+
+1) The header : that include the `Profile` menu and the `Scanner`
+2) The body : this is where all the operations will be happening and displayed.
+3) The Footer : we call it a footer because of its location, but this is the main navigator bar.
+
+
+![image](https://user-images.githubusercontent.com/55901714/167257286-70371546-2504-459a-aa3a-1cfee417b5ba.png)
+
+
+
 ## How to set it up
 
 #### Change your Language
