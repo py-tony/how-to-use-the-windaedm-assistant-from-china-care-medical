@@ -1,10 +1,10 @@
 # How to use WindaEDM in your Hospital
 
-In this tutorial we will be going through step by step on how to use the WindaEDM. 
-You can also expect clear direction and explanation of:
+In this tutorial we will be going through step by step on how to use the WindaEDM to manage hospital equipment. 
+You can also expect clear directions and explanations of:
 
 - What is WindaEDM
-- How to download 
+- How to download it
 - How to set it up.
 - How to use it as a Nurse 
 
@@ -16,12 +16,12 @@ You can also expect clear direction and explanation of:
 ![windavdm_logo](https://user-images.githubusercontent.com/55901714/166229046-78afaaa5-477a-4509-9fae-dd59b5a2d1d1.jpg)
 
 
-WindaEDM is an efficient management equipment platform that accurately and effectively helps major enterprises and individuals work together. 
+WindaEDM is an efficient management platform that accurately and effectively helps major enterprises and individuals work together. 
 
 Ok, what does that even mean in the context of managing hospital tools and medical equipment?
-Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. But for now, we would like to think of WindaEDM as software that takes care of various activities in a hospital such as requesting maintenance, repair of a machine, data storage/management, stock management, automated communications, or updates.
+Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. But for now, we would like to think of WindaEDM as software that takes care of various activities related to hospital equipment such as requesting maintenance, repairing a machine, data storage/management, stock management, ordering consumables, automated communications, or updates.
 
-Why do I need to use this system? The primary goal of this App is to improve how your medical equipment is managed and looked after. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
+Why do I need to use this system? One of the primary goal of China Care Medical is to improve how your medical equipment is well managed and maintained. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
 
 
 ## Made possible by China Care Medical
@@ -37,7 +37,7 @@ We continue to make your life easy by bringing to you a team of passionate indiv
 ## How to download WindaEDM
 
 Currently we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The difference is just the look, but the features are pretty much the same.
-This guide will include directions and screenshots of the mobile device App version, but if you decide to use the [web app version](http://saas.windasoft.com/manage#manage/welcome) on your phone's web browser, or laptop, you're more than welcome to do so. It's important to remember that some features might look different, but the lesson you'll learn won't be a total loss.
+This guide will include directions and screenshots of the mobile device App version, but if you decide to use the [web app version](http://saas.windasoft.com/manage#manage/welcome) on your phone's web browser, or laptop, you're more than welcome to do so. It's important to remember that some features might look different, but the lesson you'll learn here won't be a total loss regardless of the platform you choose.
 
 To download the app on your smartphone Android, or IOS, click on this link ----> [Download](http://saas.windasoft.com/download) this will open up a webpage like the one below.
 
@@ -58,17 +58,19 @@ You might be prompt to allow the app to use your camera, microphone, etc. Please
 For Apple (iphones) users, just scan the QR code on this [link,](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg) and it will give you the download link, just press on the link and it will start installing. You might get an error that says "App not available in your Country or Region". Please follow the steps in this [youtube video](https://www.youtube.com/watch?v=fhrDLIvru_M) to get around that.
 
 
-Once the download is completed find the app on your smartphone and open it. This should give you a page looking like the one bellow.
+Once the download is completed, find the app on your smartphone and open it. This should give you a page looking like the one bellow.
 
 ![WhatsApp Image 2022-05-02 at 15 11 19](https://user-images.githubusercontent.com/55901714/166922858-3095cbe9-5f39-423b-b053-0299a6303e8f.jpeg)
 
-Congratulations! You've passed the first steps. Now let's get tighten some bolts and nuts to get you ready to use the app and communicate with your team.
+Congratulations! You've passed the first steps. Now let's get to tighten some bolts and nuts to get you ready to use the app and communicate with your team.
 
 ## How to set it up
 
 #### Change your Language
 
-while on the App, find at the bottom of your screen the setting icon ![image](https://user-images.githubusercontent.com/55901714/166923715-2cdbdcb3-c477-4ade-b738-d28ecd29dea0.png) Tap on it.
+
+First thing first you need to change your language. For now the app support only English and Chinese languages.
+While on the App(before longin), find at the bottom of your screen the setting icon ![image](https://user-images.githubusercontent.com/55901714/166923715-2cdbdcb3-c477-4ade-b738-d28ecd29dea0.png) and tap on it.
 
 ![image](https://user-images.githubusercontent.com/55901714/166924143-e06b5ebf-3ae4-4a7c-a396-d9906b01703d.png)
 
