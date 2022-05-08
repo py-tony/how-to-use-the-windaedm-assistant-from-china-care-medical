@@ -1,6 +1,6 @@
 # How to use WindaEDM in your Hospital
 
-In this tutorial we will be going through step by step on how to use the WindaEDM to manage hospital equipment. 
+In this tutorial we will be going through step by step on how to use the WindaEDM App to manage hospital equipment. 
 You can also expect clear directions and explanations of:
 
 - What is WindaEDM
@@ -20,17 +20,26 @@ You can also expect clear directions and explanations of:
 WindaEDM is an efficient management platform that accurately and effectively helps major enterprises and individuals work together. 
 
 Ok, what does that even mean in the context of managing hospital tools and medical equipment?
-Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. But for now, we would like to think of WindaEDM as software that takes care of various activities related to hospital equipment such as requesting maintenance, repairing a machine, data storage/management, stock management, ordering consumables, automated communications, or updates.
 
-Why do I need to use this system? One of the primary goal of China Care Medical is to improve how your medical equipment is well managed and maintained. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
+Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. 
+
+But for now, we would like to think of WindaEDM as a software that takes care of various activities related to hospital equipment such as requesting maintenance, repairing a machine, data storage/management, stock management, ordering consumables, automated communications, or updates.
+
+Why do I need to use this system? 
+
+One of the primary goal of China Care Medical is to improve how your medical equipment is managed and maintained. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
+
 
 
 ## Made possible by China Care Medical
 
+
 ![image](https://user-images.githubusercontent.com/55901714/166336403-7437043e-0209-413a-b7ea-6eef660e72fd.png)
 
 
-At China Care Medical we strive to bring you the best 21st-century medical equipment for your hospital to put you ahead of your competition at the lowest cost possible. You can pay for your equipment at [warehouse prices](https://www.chinacaremedical.com/) and save money. All our medical machines come with a guarantee of up to 24 months. While under the guarantee, you get free assistance from installation to reparing if needed. China Care Medical will still support and guarantee a good functioning of your equipment after your guarantee has ended at a reasonable fee.
+At China Care Medical we strive to bring you the best 21st-century medical equipment for your hospital to put you ahead of your competition at the lowest cost possible. You can pay for your equipment at [warehouse prices](https://www.chinacaremedical.com/) and save money. 
+
+All our medical machines come with a guarantee of up to 24 months. While under the guarantee, you get free assistance from installation to reparing if needed. China Care Medical will still support and guarantee a good functioning of your equipment after your guarantee has ended at a reasonable fee.
 
 We continue to make your life easy by bringing to you a team of passionate individuals, qualified engineers, and world-class technologies such as WindaEDM software.
 
