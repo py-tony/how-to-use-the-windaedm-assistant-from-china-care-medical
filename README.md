@@ -1,6 +1,6 @@
 # How to use WindaEDM in your Hospital
 
-In this tutorial we will be going through step by step on how to use the WindaEDM App to manage hospital equipment. 
+In this tutorial, we will be going through step by step how to use the WindaEDM App to manage hospital equipment. 
 You can also expect clear directions and explanations of:
 
 - What is WindaEDM
@@ -23,11 +23,11 @@ Ok, what does that even mean in the context of managing hospital tools and medic
 
 Well, those who used [Hospital management tools](https://en.wikipedia.org/wiki/Hospital_information_system) such as MocDoc, Insta, or Attune will be familiarized with this kind of practice. 
 
-But for now, we would like to think of WindaEDM as a software that takes care of various activities related to hospital equipment such as requesting maintenance, repairing a machine, data storage/management, stock management, ordering consumables, automated communications, or updates.
+But for now, we would like to think of WindaEDM as software that takes care of various activities related to hospital equipment such as requesting maintenance, repairing a machine, data storage/management, stock management, ordering consumables, automated communications, or updates.
 
 Why do I need to use this system? 
 
-One of the primary goal of China Care Medical is to improve how your medical equipment is managed and maintained. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
+One of the primary goals of China Care Medical is to improve how your medical equipment is managed and maintained. On top of ensuring that your equipment is well looked after, the software also helps you to keep track of your warehouse stock. It is more like having all the concerned parties such as engineers, manufacturers, sales reps, nurses etc.. right at your fingertip.
 
 
 
@@ -39,14 +39,14 @@ One of the primary goal of China Care Medical is to improve how your medical equ
 
 At China Care Medical we strive to bring you the best 21st-century medical equipment for your hospital to put you ahead of your competition at the lowest cost possible. You can pay for your equipment at [warehouse prices](https://www.chinacaremedical.com/) and save money. 
 
-All our medical machines come with a guarantee of up to 24 months. While under the guarantee, you get free assistance from installation to reparing if needed. China Care Medical will still support and guarantee a good functioning of your equipment after your guarantee has ended at a reasonable fee.
+All our medical machines come with a guarantee of up to 24 months. While under the guarantee, you get free assistance from installation to repair if needed. China Care Medical will still support and guarantee a good functioning of your equipment after your guarantee has ended at a reasonable fee.
 
 We continue to make your life easy by bringing to you a team of passionate individuals, qualified engineers, and world-class technologies such as WindaEDM software.
 
 
 ## How to download WindaEDM
 
-Currently we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The difference is just the look, but the features are pretty much the same.
+Currently, we have a [webapp version](http://saas.windasoft.com/manage#manage/welcome) and smartphone versions both for [Android and OIS](http://saas.windasoft.com/download) devices. The difference is just the look, but the features are pretty much the same.
 This guide will include directions and screenshots of the mobile device App version, but if you decide to use the [web app version](http://saas.windasoft.com/manage#manage/welcome) on your phone's web browser, or laptop, you're more than welcome to do so. It's important to remember that some features might look different, but the lesson you'll learn here won't be a total loss regardless of the platform you choose.
 
 To download the app on your smartphone Android, or IOS, click on this link ----> [Download](http://saas.windasoft.com/download) this will open up a webpage like the one below.
@@ -65,33 +65,33 @@ Once the download has been completed, locate the file in your download folder an
 You might be prompt to allow the app to use your camera, microphone, etc. Please allow all. 
 
 
-For Apple (iphones) users, just scan the QR code on this [link,](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg) and it will give you the download link, just press on the link and it will start installing. You might get an error that says "App not available in your Country or Region". Please follow the steps in this [youtube video](https://www.youtube.com/watch?v=fhrDLIvru_M) to get around that.
+For Apple (iPhones) users, just scan the QR code on this [link,](https://user-images.githubusercontent.com/55901714/166917209-962179bf-aa5c-4b83-9076-ce48db1eae79.jpg) and it will give you the download link, just press on the link and it will start installing. You might get an error that says "App not available in your Country or Region". Please follow the steps in this [youtube video](https://www.youtube.com/watch?v=fhrDLIvru_M) to get around that.
 
 
-Once the download is completed, find the app on your smartphone and open it. This should give you a page looking like the one bellow.
+Once the download is completed, find the app on your smartphone and open it. This should give you a page looking like the one below.
 
 Congratulations! You've passed the first steps. Now let's get to tighten some bolts and nuts to get you ready to use the app and communicate with your team.
 
 
 ## Overview of the App
 
-Ok let's first have a general view of the app and its main features.
+Ok, let's first have a general view of the app and its main features.
 
 When you open the app you will be presented on a screen like the one below.
-Before login we have 3 feartures:
+Before login we have 3 features :
 
-1) Credentials :this is where you enter your organization, username, and password
-2) Offline mode : this is where you can perform some operation once you have some data saved but you're not connected to the internet
-3) Settings : here is where you get the basic seting like language and informations like the version of the app. you can also change or add an organization from here.
+1) Credentials: this is where you enter your organization, username, and password
+2) Offline mode: this is where you can perform some operations once you have some data saved but you're not connected to the internet
+3) Settings: here is where you get the basic setting like language and information like the version of the app. you can also change or add an organization from here.
 
 ![image](https://user-images.githubusercontent.com/55901714/167256617-dd8ff7ad-9f0e-48b2-834c-8f052b315ebf.png)
 
-Once you're logged in, will see how to login later on in this article, you will land on page like the one below.
-Notice that there is three main sections here.
+Once you're logged in, will see how to log in later on in this article, you will land on a page like the one below.
+Notice that there are three main sections here.
 
-1) The header : that include the `Profile` menu and the `Scanner`
-2) The body : this is where all the operations will be happening and displayed.
-3) The Footer : we call it a footer because of its location, but this is the main navigator bar.
+1) The header: where we find the `Profile` menu and the `QR Scanner`
+2) The body: this is where all the operations will be happening and displayed.
+3) The Footer: we call it a footer because of its location, but this is the main navigator bar.
 
 
 ![image](https://user-images.githubusercontent.com/55901714/167257286-70371546-2504-459a-aa3a-1cfee417b5ba.png)
@@ -103,33 +103,33 @@ Notice that there is three main sections here.
 #### Change your Language
 
 
-First thing first you need to change your language. For now the app support only English and Chinese languages.
-While on the App(before longin), find at the bottom of your screen the setting icon ![image](https://user-images.githubusercontent.com/55901714/166923715-2cdbdcb3-c477-4ade-b738-d28ecd29dea0.png) and tap on it.
+First thing first you need to change your language. For now, the app supports only English and Chinese languages.
+While on the App(before log in), find at the bottom of your screen the setting icon ![image](https://user-images.githubusercontent.com/55901714/166923715-2cdbdcb3-c477-4ade-b738-d28ecd29dea0.png) and tap on it.
 
 ![image](https://user-images.githubusercontent.com/55901714/166924143-e06b5ebf-3ae4-4a7c-a396-d9906b01703d.png)
 
-Next change the language to English as shown bellow.
+Next change the language to English as shown below.
 
 ![image](https://user-images.githubusercontent.com/55901714/166924495-95847c90-d90f-4333-97c6-a77183fdfada.png)
 
-Choose your desired language, for english tap on english as illustrated bellow.
+Choose your desired language, for English tap on English as illustrated below.
 
 ![image](https://user-images.githubusercontent.com/55901714/166925041-4d7fc7e7-7b1b-4e98-bd38-7dfbd3cc3566.png)
 
 
 #### How to use WindaEDM as a Nurse
 
-First you need to get your credentials from your manager or from the service provider (in this case China Care Medical).
+First, you need to get your credentials from your manager or the service provider (in this case China Care Medical).
 That will include the Organization name, Username, and password as illustrated bellow
 
 ![6efeeffc-e417-4071-87a5-e7b5d0d724d3](https://user-images.githubusercontent.com/55901714/166927040-ffcba8d9-d4f8-4077-a492-8bcde73cdd16.jpg)
 
-That should take you to a screen like the one shown bellow.
+That should take you to a screen like the one shown below.
 
 ![0fbc2c48-ca74-4fe4-a424-e8d31116fafd](https://user-images.githubusercontent.com/55901714/166927341-52123dcc-ecb9-4f59-adae-80c2735f4945.jpg)
 
 
-A nurse has limitted responsabilities compared to the Hospital manager or boss.
+A nurse has limited responsibilities compared to the Hospital manager or boss.
 Let's navigate through the App and experiment with some of tasks a Nurse or a laboratory assistant could do on the app.
 
 ##### Report broken machine or request a maintenance service.
